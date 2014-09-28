@@ -7,7 +7,7 @@
 //
 
 #import "VBFDoubleSegment.h"
-#import "POP.h"
+#import <pop/POP.h>
 
 @interface VBFDoubleSegment ()
 @property (nonatomic) CGFloat totalLength;
